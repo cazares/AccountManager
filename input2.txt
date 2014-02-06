@@ -1,0 +1,2 @@
+John Smith;102934;123.45 
+Miguel Cazares;999666;909.45
